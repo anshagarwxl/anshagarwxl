@@ -4,7 +4,7 @@
 💻 Aspiring Software Engineer | Passionate about AI, SaaS & Tech Innovations  
 📍 From Delhi NCR, India  
 🚀 Always learning, building, and exploring new tech  
-📫 Reach me at: anshagarwxl@gmail.com  
+📫 Reach me at: agansh06@gmail.com  
 
 ---
 
@@ -19,8 +19,7 @@
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-%233776AB.svg?logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black)  
 
 **Web Development:**  
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?logo=express&logoColor=white)  
-
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white) 
 **Databases:**  
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white)  
 
