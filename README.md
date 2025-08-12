@@ -38,15 +38,15 @@ Web Development (HTML, CSS) • Object-Oriented Programming & Algorithms (C, C++
 ---
 
 ### 📊 GitHub Stats  
-![Ansh’s GitHub stats](https://github-readme-stats.vercel.app/api?username=agansh06&show_icons=true&theme=radical)  
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=agansh06&layout=compact&theme=radical)
+![Ansh’s GitHub stats](https://github-readme-stats.vercel.app/api?username=anshagarwxl&show_icons=true&theme=radical)  
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anshagarwxl&layout=compact&theme=radical)
 
 ---
 
 ### 📂 Projects  
 - **Univoice** – Platform connecting high school graduates with mentors from colleges  
 - **Smart Expense Tracker** – Java-based expense tracker that auto-fetches UPI payment data  
-- **[Add more projects here]**
+- **F1 Data Insights** – A data analytics project delivering real-time Formula 1 race statistics, driver comparisons, and performance visualizations.
 
 ---
 
