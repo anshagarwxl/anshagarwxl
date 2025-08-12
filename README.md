@@ -46,7 +46,7 @@ Web Development (HTML, CSS) • Object-Oriented Programming & Algorithms (C, C++
 ### 📂 Projects  
 - **Univoice** – Platform connecting high school graduates with mentors from colleges  
 - **Smart Expense Tracker** – Java-based expense tracker that auto-fetches UPI payment data  
-- **F1 Data Insights – A data analytics project delivering real-time Formula 1 race statistics, driver comparisons, and performance visualizations.
+- **F1 Data Insights** – A data analytics project delivering real-time Formula 1 race statistics, driver comparisons, and performance visualizations.
 
 ---
 
