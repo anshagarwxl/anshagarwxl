@@ -1,43 +1,66 @@
-# 💫 About Me:
-👋 Hi, I'm Ansh Agarwal  
-🎓 First-year CSE Core student at SRM University, Chennai  
-💻 Aspiring Software Engineer | Passionate about AI, SaaS & Tech Innovations  
-📍 From Delhi NCR, India  
-🚀 Always learning, building, and exploring new tech  
-📫 Reach me at: agansh06@gmail.com  
+# Hi, I’m Ansh! 👋
+
+![Profile Views](https://komarev.com/ghpvc/?username=anshagarwxl&color=blue)
+
+**Student at SRM University, Chennai** • Aspiring Software Engineer • Ex-Intern @ Infogain
 
 ---
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anshagarwxl)  
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/anshagarwxl)
+### 🚀 Currently Learning  
+Java & GenAI
 
 ---
 
-# 💻 Tech Stack:
-**Languages:**  
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-%233776AB.svg?logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black)  
-
-**Web Development:**  
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white) 
-**Databases:**  
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white)  
-
-**Tools & Platforms:**  
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?logo=visual-studio-code&logoColor=white)  
+### 💬 Ask me about  
+Web Development (HTML, CSS) • Object-Oriented Programming & Algorithms (C, C++, Java, Python) • UI/UX Tools (Figma) • IDEs (VS Code, IntelliJ IDEA, Eclipse)
 
 ---
 
-# 📂 Projects:
-- **Univoice** – A platform connecting high school graduates with college mentors.  
-- **Smart Expense Tracker** – A Java-based app to track and categorize UPI payments automatically.  
-- **F1 Data Insights** – Data visualization & analysis platform for Formula 1 statistics.
+### 🛠 Languages & Tools  
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) 
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) 
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) 
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) 
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) 
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) 
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white) 
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)  
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=anshagarwxl&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=anshagarwxl&theme=tokyonight&hide_border=true)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anshagarwxl&theme=tokyonight&hide_border=true&layout=compact)
+### 🌐 Find me around the web  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/anshagarwxl)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshagarwxl/)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:agansh06@gmail.com)  
 
 ---
+
+### 📊 GitHub Stats  
+![Ansh’s GitHub stats](https://github-readme-stats.vercel.app/api?username=anshagarwxl&show_icons=true&theme=radical)  
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anshagarwxl&layout=compact&theme=radical)
+
+---
+
+### 📂 Projects  
+- **Univoice** – Platform connecting high school graduates with mentors from colleges  
+- **Smart Expense Tracker** – Java-based expense tracker that auto-fetches UPI payment data  
+- **[Add more projects here]**
+
+---
+
+### 🏆 Achievements & Hackathons  
+- **Ultron 8.0 Hackathon** – Top 70 teams from 2500+ applications  
+- Built multiple hackathon-ready prototypes in under 24 hours  
+- Open-source contributions & coding community participation
+
+---
+
+### ✨ Motto  
+**“Think it. Code it. Launch it.”**
+
+---
+
+### 🤝 Let’s Collaborate!  
+I’m open to collaborating on exciting projects, AI ideas, and hackathons — let’s build something awesome together.
