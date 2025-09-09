@@ -54,7 +54,7 @@
 
 <div align="center">
   <a href="https://github.com/anshagarwxl" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/github/default.svg" width="52" height="40" alt="github logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="github logo"/>
   </a>
   <a href="https://www.linkedin.com/in/anshagarwxl/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
@@ -73,7 +73,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshagarwxl&layout=compact&theme=radical" height="150" alt="languages graph" />
   <img src="https://streak-stats.demolab.com?user=anshagarwxl&theme=radical" height="150" alt="streak graph" />
   <img src="https://github-profile-trophy.vercel.app/?username=anshagarwxl&theme=radical&margin-w=8&margin-h=8" height="150" alt="trophy graph" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anshagarwxl&theme=radical&area=true" height="300" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anshagarwxl&theme=github-dark&area=true" height="300" alt="activity graph" />
 </div>
 
 ---
@@ -94,6 +94,13 @@
 
 ### ✨ Motto  
 <p align="center"><b>“Think it. Code it. Launch it.”</b></p>
+
+---
+
+### 💡 Dev Quote  
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote"/>
+</p>
 
 ---
 
