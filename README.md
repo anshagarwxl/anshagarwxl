@@ -95,13 +95,6 @@
 ### ✨ Motto  
 <p align="center"><b>“Think it. Code it. Launch it.”</b></p>
 
----
-
-### 💡 Quote  
-<p align="center">
-  <img src="https://anime-quotes.vercel.app/api/quote?theme=dark&type=horizontal" alt="Anime Quote"/>
-</p>
-
 
 ---
 
