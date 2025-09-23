@@ -86,7 +86,7 @@
 ---
 
 ### 🏆 Achievements & Hackathons  
-- **Ultron 8.0 Hackathon** – Top 70 teams from 2500+ applications  
+- **Ultron 8.0 Hackathon** – TOP 70 teams from 2500+ applications  
 - Built multiple hackathon-ready prototypes in under 24 hours  
 - Open-source contributions & coding community participation  
 
