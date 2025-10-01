@@ -17,8 +17,9 @@
 
 ### 💬 Ask me about  
 <div align="center">
-  Web Development (HTML, CSS) • OOP & Algorithms (C, C++, Java, Python) • UI/UX Tools (Figma) • IDEs (VS Code, IntelliJ IDEA, Eclipse)
+  Web Development (HTML, CSS) • OOP & Algorithms (C, C++, Java, Python) • UI/UX Tools (Figma) • IDEs (VS Code, IntelliJ IDEA, Eclipse) • API Testing (Postman)
 </div>
+
 
 ---
 
