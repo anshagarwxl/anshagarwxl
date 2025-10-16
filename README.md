@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I’m Ansh! 👋</h1>
+<h1 align="center">Hi, I’m Ansh! </h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=anshagarwxl&color=blue" alt="Profile Views" />
