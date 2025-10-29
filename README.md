@@ -10,7 +10,7 @@
 
 ### 🚀 Currently Learning  
 <div align="center">
-  Java & GenAi
+  Java and GenAi
 </div>
 
 ---
