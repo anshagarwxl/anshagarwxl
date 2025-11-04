@@ -20,7 +20,6 @@
   Web Development (HTML, CSS) • OOP & Algorithms (C, C++, Java, Python) • UI/UX Tools (Figma) • IDEs (VS Code, IntelliJ IDEA, Eclipse) • API Testing (Postman)
 </div>
 
-
 ---
 
 ### 🛠 Languages & Tools  
@@ -74,7 +73,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anshagarwxl&show_icons=true&theme=radical" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshagarwxl&layout=compact&theme=radical" height="150" alt="languages graph" />
-  <img src="https://streak-stats.demolab.com?user=anshagarwxl&theme=radical" height="150" alt="streak graph" />
   <img src="https://github-profile-trophy.vercel.app/?username=anshagarwxl&theme=radical&margin-w=8&margin-h=8" height="150" alt="trophy graph" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anshagarwxl&theme=github-dark&area=true" height="300" alt="activity graph" />
 </div>
@@ -97,7 +95,6 @@
 
 ### ✨ Motto  
 <p align="center"><b>“Think it. Code it. Launch it.”</b></p>
-
 
 ---
 
