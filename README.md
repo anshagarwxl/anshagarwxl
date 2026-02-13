@@ -17,7 +17,7 @@
 
 ### 💬 Ask me about  
 <div align="center">
-  Web Development (HTML, CSS) • OOP & Algorithms (C, C++, Java, Python) • UI/UX Tools (Figma) • IDEs (VS Code, IntelliJ IDEA, Eclipse) • API Testing (Postman)
+Data Structures & Algorithms • OOP (C, C++, Java, Python) • Web Development (HTML, CSS) • UI/UX Tools (Figma) • IDEs (VS Code, IntelliJ IDEA, Eclipse) • API Testing (Postman)
 </div>
 
 ---
@@ -48,6 +48,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" height="40" alt="eclipse logo" />
   <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" alt="postman logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="aws logo" />
 </div>
 
 ---
@@ -102,16 +104,16 @@
 ---
 
 ### 📂 Projects  
-- **Univoice** – Platform connecting high school graduates with mentors from colleges  
+- **UniMate** – Platform connecting high school graduates with mentors from colleges  
 - **Smart Expense Tracker** – Java-based expense tracker that auto-fetches UPI payment data  
 - **F1 Data Insights** – Real-time Formula 1 race statistics, driver comparisons, and performance visualizations  
 
 ---
 
 ### 🏆 Achievements & Hackathons  
-- **Ultron 8.0 Hackathon** – TOP 70 teams from 2500+ applications  
-- Built multiple hackathon-ready prototypes in under 24 hours  
-- Open-source contributions & coding community participation  
+- Solved 50+ DSA problems (Leetcode) 
+- Maintained consistent GitHub contributions and project-based learning  
+- Developed real-world projects like UniMate & Smart Expense Tracker   
 
 ---
 
