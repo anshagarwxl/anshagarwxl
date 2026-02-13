@@ -74,19 +74,19 @@
 
   <!-- Main Stats -->
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=anshagarwxl&show_icons=true&theme=radical&count_private=true&include_all_commits=true" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=anshagarwxl&show_icons=true&theme=radical&count_private=true&include_all_commits=true" 
+    height="150" 
+  />
+
+  <!-- Streak Stats -->
+  <img 
+    src="https://streak-stats.demolab.com?user=anshagarwxl&theme=radical&hide_border=false" 
     height="150" 
   />
 
   <!-- Top Languages -->
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshagarwxl&layout=compact&theme=radical&langs_count=8" 
-    height="150" 
-  />
-
-  <!-- Trophies -->
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=anshagarwxl&theme=radical&margin-w=8&margin-h=8" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anshagarwxl&layout=compact&theme=radical&langs_count=8" 
     height="150" 
   />
 
