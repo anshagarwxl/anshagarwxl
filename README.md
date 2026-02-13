@@ -71,10 +71,31 @@
 ### 📊 GitHub Stats & Activity  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anshagarwxl&show_icons=true&theme=radical" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshagarwxl&layout=compact&theme=radical" height="150" alt="languages graph" />
-  <img src="https://github-profile-trophy.vercel.app/?username=anshagarwxl&theme=radical&margin-w=8&margin-h=8" height="150" alt="trophy graph" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anshagarwxl&theme=github-dark&area=true" height="300" alt="activity graph" />
+
+  <!-- Main Stats -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=anshagarwxl&show_icons=true&theme=radical&count_private=true&include_all_commits=true" 
+    height="150" 
+  />
+
+  <!-- Top Languages -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshagarwxl&layout=compact&theme=radical&langs_count=8" 
+    height="150" 
+  />
+
+  <!-- Trophies -->
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=anshagarwxl&theme=radical&margin-w=8&margin-h=8" 
+    height="150" 
+  />
+
+  <!-- Activity Graph -->
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=anshagarwxl&theme=github-dark&area=true" 
+    height="300" 
+  />
+
 </div>
 
 
