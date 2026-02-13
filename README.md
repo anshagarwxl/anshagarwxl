@@ -10,7 +10,7 @@
 
 ### 🚀 Currently Learning  
 <div align="center">
-  Java and GenAi
+ DSA • Advanced Java • DevOps
 </div>
 
 ---
