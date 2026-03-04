@@ -105,7 +105,7 @@ Data Structures & Algorithms • OOP (C, C++, Java, Python) • Web Development 
 
 ### 📂 Projects  
 - **UniMate** – Platform connecting high school graduates with mentors from colleges  
-- **Smart Expense Tracker** – Java-based expense tracker that auto-fetches UPI payment data  
+- **Smart Carbon Emission Tracker** – Java-based expense tracker that calculates Carbom emission.
 - **F1 Data Insights** – Real-time Formula 1 race statistics, driver comparisons, and performance visualizations  
 
 ---
@@ -113,7 +113,7 @@ Data Structures & Algorithms • OOP (C, C++, Java, Python) • Web Development 
 ### 🏆 Achievements & Hackathons  
 - Solved 50+ DSA problems (Leetcode) 
 - Maintained consistent GitHub contributions and project-based learning  
-- Developed real-world projects like UniMate & Smart Expense Tracker   
+- Developed real-world projects like UniMate & Smart Carbon Tracker   
 
 ---
 
