@@ -111,7 +111,7 @@ Data Structures & Algorithms • OOP (C, C++, Java, Python) • Web Development 
 ---
 
 ### 🏆 Achievements & Hackathons  
-- Solved 50+ DSA problems (Leetcode) 
+- Solved 100+ DSA problems (Leetcode) 
 - Maintained consistent GitHub contributions and project-based learning  
 - Developed real-world projects like UniMate & Smart Carbon Tracker   
 
