@@ -54,7 +54,7 @@ Data Structures & Algorithms • OOP (C, C++, Java, Python) • Web Development 
 
 ---
 
-### 🌐 Find me around the web  
+### 🌐 Find me around the web.. 
 
 <div align="center">
   <a href="https://github.com/anshagarwxl" target="_blank">
