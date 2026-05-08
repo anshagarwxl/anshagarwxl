@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=anshagarwxl&color=blue" alt="Profile Views" />
 </p>
 
-<h3 align="center">Student at SRM University, Chennai • Aspiring Software Engineer • Ex-Intern @ Infogain</h3>
+<h3 align="center">Student at SRM University, Chennai • Aspiring Software Engineer • Ex-Intern @Tenarai</h3>
 
 ---
 
